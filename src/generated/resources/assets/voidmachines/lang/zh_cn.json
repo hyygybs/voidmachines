@@ -1,8 +1,8 @@
 {
   "block.voidmachines.void_energy_generator": "虚空能量生成器",
   "block.voidmachines.void_mob_generator": "虚空生物资源生成器",
-  "block.voidmachines.void_nature_generator": "虚空之物资源生成器",
-  "block.voidmachines.void_ore_generator": "虚空矿石资源生成器",
+  "block.voidmachines.void_nature_generator": "虚空植物资源生成器",
+  "block.voidmachines.void_ore_generator": "虚空矿物资源生成器",
   "gui.voidmachines.cycle": "周期: %s / %s",
   "gui.voidmachines.energy": "FE: %s / %s",
   "gui.voidmachines.energy_buffer": "自动向相邻方块输出 FE",
