@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "voidmachines:black_void_matter"
+    },
+    "C": {
+      "item": "voidmachines:colorful_void_matter"
+    },
+    "W": {
+      "item": "voidmachines:white_void_matter"
+    }
+  },
+  "pattern": [
+    "BBW",
+    "BCW",
+    "BWW"
+  ],
+  "result": {
+    "item": "voidmachines:speed_upgrade"
+  },
+  "show_notification": true
+}

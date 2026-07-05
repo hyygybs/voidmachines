@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "V": {
+      "item": "voidmachines:colorful_void_matter"
+    }
+  },
+  "pattern": [
+    "HHH",
+    "HVH",
+    "HHH"
+  ],
+  "result": {
+    "item": "voidmachines:void_nature_generator"
+  },
+  "show_notification": true
+}

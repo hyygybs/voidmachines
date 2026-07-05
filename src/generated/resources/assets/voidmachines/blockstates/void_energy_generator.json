@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "voidmachines:block/void_energy_generator"
+    }
+  }
+}

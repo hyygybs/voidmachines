@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "V": {
+      "item": "voidmachines:colorful_void_matter"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WVW",
+    "WWW"
+  ],
+  "result": {
+    "item": "voidmachines:void_mob_generator"
+  },
+  "show_notification": true
+}

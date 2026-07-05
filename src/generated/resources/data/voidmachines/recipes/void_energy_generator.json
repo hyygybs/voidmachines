@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {
+      "item": "minecraft:coal_block"
+    },
+    "V": {
+      "item": "voidmachines:colorful_void_matter"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "CVC",
+    "CCC"
+  ],
+  "result": {
+    "item": "voidmachines:void_energy_generator"
+  },
+  "show_notification": true
+}

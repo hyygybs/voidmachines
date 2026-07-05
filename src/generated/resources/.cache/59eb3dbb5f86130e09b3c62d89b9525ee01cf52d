@@ -1,0 +1,5 @@
+// 1.20.1	2026-07-05T00:23:50.604012	Loot Tables
+b75f6148381189afbc48388bd24b3e9489bd440f data/voidmachines/loot_tables/blocks/void_energy_generator.json
+c4de44c992a18128dd24340510a2cf5baceada98 data/voidmachines/loot_tables/blocks/void_mob_generator.json
+735441182b75c87e5dac5940dfeed991edf329c9 data/voidmachines/loot_tables/blocks/void_nature_generator.json
+7c8797d893d271f223329f0e12aec99d97a7a850 data/voidmachines/loot_tables/blocks/void_ore_generator.json

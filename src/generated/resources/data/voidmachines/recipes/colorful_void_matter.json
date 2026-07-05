@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "voidmachines:blue_void_matter"
+    },
+    "G": {
+      "item": "voidmachines:green_void_matter"
+    },
+    "R": {
+      "item": "voidmachines:red_void_matter"
+    },
+    "V": {
+      "item": "voidmachines:violet_void_matter"
+    },
+    "Y": {
+      "item": "voidmachines:yellow_void_matter"
+    }
+  },
+  "pattern": [
+    " R ",
+    "GVY",
+    " B "
+  ],
+  "result": {
+    "item": "voidmachines:colorful_void_matter"
+  },
+  "show_notification": true
+}
