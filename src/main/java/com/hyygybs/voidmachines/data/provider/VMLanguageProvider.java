@@ -24,8 +24,8 @@ public class VMLanguageProvider extends LanguageProvider {
         addItem(VMItems.COLORFUL_VOID_MATTER, "彩色虚空物质");
         addItem(VMItems.SPEED_UPGRADE, "加速升级");
         addBlock(VMBlocks.VOID_ENERGY_GENERATOR, "虚空能量生成器");
-        addBlock(VMBlocks.VOID_ORE_GENERATOR, "虚空矿石资源生成器");
-        addBlock(VMBlocks.VOID_NATURE_GENERATOR, "虚空之物资源生成器");
+        addBlock(VMBlocks.VOID_ORE_GENERATOR, "虚空矿物资源生成器");
+        addBlock(VMBlocks.VOID_NATURE_GENERATOR, "虚空植物资源生成器");
         addBlock(VMBlocks.VOID_MOB_GENERATOR, "虚空生物资源生成器");
         add("gui.voidmachines.energy", "FE: %s / %s");
         add("gui.voidmachines.speed", "倍率: %sx");
