@@ -46,6 +46,7 @@ public final class GeneratorContentCache {
             minecraftTag("flowers"),
             minecraftTag("tall_flowers"),
             forgeTag("crops"),
+            forgeTag("fruits"),
             minecraftTag("seeds"),
             minecraftTag("saplings"),
             forgeTag("mushrooms")
